@@ -5,4 +5,6 @@ for i in range(0,10):
 
 print(list)
 
-print("Zrobiłem zmianę i co mi zrobisz?"
+print("Zrobiłem zmianę i co mi zrobisz?")
+
+print("Tomasz Tomasz")
